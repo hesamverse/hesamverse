@@ -48,6 +48,7 @@ Old values. New tools. Free people.
 
 ### 📫 Reach Out
 Whether you're building something big, small, or weird — let’s talk:
+- [![Website](https://img.shields.io/badge/Website-hesamverse.github.io-blue?style=flat-square&logo=github)](https://hesamverse.github.io)
 - 📩 **Email**: hesamverse@proton.me
 - 🧵 **X**: [@hesamverse](https://x.com/hesamverse)
 - 🔗 **LinkedIn**: 🔜 Coming soon…
