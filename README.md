@@ -51,6 +51,7 @@ Whether you're building something big, small, or weird — let’s talk:
 - 🌐 **Website**: [hesamverse.github.io](https://hesamverse.github.io)
 - 📩 **Email**: hesamverse@proton.me
 - 🧵 **X**: [@hesamverse](https://x.com/hesamverse)
+- 👾 **Reddit**: [u/hesamverse](https://www.reddit.com/user/hesamverse)
 - 🔗 **LinkedIn**: 🔜 Coming soon…
 
 ---
