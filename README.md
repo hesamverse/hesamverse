@@ -15,7 +15,7 @@ I love combining my knowledge of markets and economics with Web3 technologies to
 ---
 
 ### 🔧 Tech Stack & Interests
-- **Languages:** Solidity, Rust, JavaScript, Python, Bash  
+- **Languages:** Solidity, Rust, C, JavaScript, Python, Bash  
 - **Dev Tools:** Hardhat, Foundry, Node.js, Git, Vim/Linux  
 - **Focus Areas:**  
   - Smart contract security & audits  
