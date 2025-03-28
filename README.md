@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hesam — aka hesamverse</h1>
+<h1 align="center">👋 Hi, I'm Hesamedine — aka hesamverse</h1>
 
 <p align="center">
 🛠️ Blockchain Developer | Solidity & Rust | Web3 & DAO Infrastructure  
