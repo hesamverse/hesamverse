@@ -40,8 +40,9 @@ I love combining my knowledge of markets and economics with Web3 technologies to
 
 ### 📫 Reach Out
 I'm always open to contributions, DAO bounties, collaborations, and discussions:
-- Email: **hesamverse@proton.me**
-- X / LinkedIn: 🔜 Coming soon…
+- Email : **hesamverse@proton.me**
+- X : **https://x.com/hesamverse**
+- LinkedIn: 🔜 Coming soon…
 
 ---
 
